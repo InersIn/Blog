@@ -1,19 +1,11 @@
 # Table of contents
 
-## ⚙ Reverse Engineering
+## ⚙ Jeopardy
 
-* [🚀 Vision, Mission & Focus](README.md)
-  * [Vision](reverse-engineering/vision-mission-and-focus/vision.md)
-  * [Mission](reverse-engineering/vision-mission-and-focus/mission.md)
-  * [Focus](reverse-engineering/vision-mission-and-focus/focus.md)
-* [💖 Values](reverse-engineering/values.md)
-
-## 🎰 Pwn
-
-* [👋 Meet the Team!](pwn/meet-the-team.md)
-* [Hmm testing](pwn/hmm-testing.md)
-
-## 📱 Mobile
-
-* [🤝 How we Work Together](mobile/how-we-work-together.md)
-* [📅 Meetings](mobile/meetings.md)
+* [Reverse Engineering](README.md)
+  * [Vision](jeopardy/reverse-engineering/vision.md)
+  * [Mission](jeopardy/reverse-engineering/mission.md)
+  * [Focus](jeopardy/reverse-engineering/focus.md)
+* [Binary Exploitation](jeopardy/binary-exploitation.md)
+* [Mobile](jeopardy/mobile.md)
+* [Kernel Exploitation](jeopardy/kernel-exploitation.md)
