@@ -11,4 +11,4 @@
   * [MetaRed CTF 2023 - Mienteles](jeopardy/web-exploitation/metared-ctf-2023-mienteles.md)
   * [MetaRed CTF 2023 - Extracttheflag!](jeopardy/web-exploitation/metared-ctf-2023-extracttheflag.md)
 * [📵 /Mobile](jeopardy/mobile.md)
-* [⛓ Blockchains](jeopardy/blockchains.md)
+* [⛓ /Blockchains](jeopardy/blockchains.md)
