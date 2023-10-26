@@ -4,12 +4,11 @@
 
 ## /Jeopardy
 
-* [⚙ /Reverse Engineering](<README (1).md>)
-  * [Vision](jeopardy/reverse-engineering/vision.md)
-* [🎯 /Binary Exploitation](jeopardy/binary-exploitation/README.md)
-  * [Page 1](jeopardy/binary-exploitation/page-1.md)
-* [🖥 /Kernel Exploitation](jeopardy/kernel-exploitation/README.md)
-  * [Page 3](jeopardy/kernel-exploitation/page-3.md)
-* [📵 /Mobile](jeopardy/mobile/README.md)
-  * [Page 2](jeopardy/mobile/page-2.md)
+* [⚙ /Reverse Engineering](jeopardy/reverse-engineering.md)
+* [🎯 /Binary Exploitation](jeopardy/binary-exploitation.md)
+* [🖥 /Kernel Exploitation](jeopardy/kernel-exploitation.md)
+* [🕸 /Web Exploitation](jeopardy/web-exploitation/README.md)
+  * [MetaRed CTF 2023 - Mienteles](jeopardy/web-exploitation/metared-ctf-2023-mienteles.md)
+  * [MetaRed CTF 2023 - Extracttheflag!](jeopardy/web-exploitation/metared-ctf-2023-extracttheflag.md)
+* [📵 /Mobile](jeopardy/mobile.md)
 * [⛓ Blockchains](jeopardy/blockchains.md)
